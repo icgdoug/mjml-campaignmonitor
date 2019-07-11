@@ -34,7 +34,7 @@
     "lodash": "^4.17.14",
     "mjml": "^4.4.0-beta.2",
     "mjml-core": "^4.4.0-beta.2",
-    "mjml-validator": "^4.4.0-beta.2"
+    "mjml-validator": "^4.3.0"
   },
   "peerDependencies": {
     "mjml-core": "^4.4.0-beta.2",
